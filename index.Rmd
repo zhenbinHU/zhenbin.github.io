@@ -1,0 +1,7 @@
+---
+title: "Sorghum Genomic Dataset"
+---
+
+This is a public sorghum genotyping-by-sequencing (GBS) dataset, which was generated from large scale sorghum GBS data was integrated into a big sorghum GBS dataset for conenivence use for sorghum research.This SNP dataset was called by using sorghum reference genome V3 with TASSEL 5V2 pipeline. 
+
+We would update the hapmap if we have new published data or have new public genomic data that we can intergate to this dataset. And you are welcome to contribute your genomic data to this dataset.
